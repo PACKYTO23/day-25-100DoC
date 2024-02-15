@@ -5,3 +5,4 @@ Day 25 - Working with CSV Files and Analysing Data with Pandas
 
 Specific (and short) notes and titles written in main.py. 
   Unfinished practice (14/02/2024); update tomorrow.
+  Finished practice (15/02/2024); updated.
